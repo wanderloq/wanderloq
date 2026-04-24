@@ -1,6 +1,6 @@
 <div align="center">
  
-### `< Full-Stack Developer />` · Mersin, Türkiye
+### `< Full-Stack Developer />`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efehankocak)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wanderloq)
@@ -14,8 +14,7 @@
 
 ```typescript
 const efehan = {
-  rol: "Full-Stack Developer",
-  konum: "Mersin, Türkiye 🇹🇷",
+  rol: "Full-Stack Developer", 
   backend: [".NET Core", "ASP.NET", "Node.js", "Express", "PHP"],
   frontend: ["React", "Vue.js", "TypeScript", "Redux"],
   veritabanı: ["MSSQL"],
