@@ -1,14 +1,5 @@
 <div align="center">
-
-```
-███████╗███████╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
-██╔════╝██╔════╝██╔════╝██║  ██║██╔══██╗████╗  ██║
-█████╗  █████╗  █████╗  ███████║███████║██╔██╗ ██║
-██╔══╝  ██╔══╝  ██╔══╝  ██╔══██║██╔══██║██║╚██╗██║
-███████╗██║     ███████╗██║  ██║██║  ██║██║ ╚████║
-╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
+ 
 ### `< Full-Stack Developer />` · Mersin, Türkiye
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efehankocak)
@@ -79,9 +70,7 @@ const efehan = {
 
 ---
 
-<div align="center">
-
-*"Kod yaz, öğren, tekrar et."*
+<div align="center"> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wanderloq&color=blueviolet&style=flat-square&label=Profil+Görüntüleme)
 
