@@ -13,12 +13,6 @@
 
 ---
 
-### Hakkımda
-
-- 🎮 **[Bombum](https://bombum.net)** — Türkiye merkezli çevrimiçi oyun platformunu kuruyor ve yönetiyorum: C# oyun sunucusu, Nuxt web sitesi, masaüstü/mobil başlatıcılar.
-- 🛠️ Şu an oyun istemcisini Flash/AS3'ten HTML5'e (PixiJS + TypeScript) taşıyorum.
-- 🌐 Yan projelerde Next.js ve Node.js ile web uygulamaları geliştiriyorum.
-
 ### Teknolojiler
 
 <p>
